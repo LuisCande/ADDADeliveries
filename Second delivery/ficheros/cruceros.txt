@@ -1,0 +1,128 @@
+#VERTEX#
+Alesund,Noruega,10,-1,3,10,false
+Amsterdam,Holanda,20,30,2,20,true
+Barcelona,España,25,30,3,10,true
+Bergen,Noruega,10,-1,3,10,false
+Cabo Norte,Noruega,10,-1,3,8,false
+Cadiz,España,10,40,3,15,false
+Cannes,Francia,30,-1,3,10,false
+Civitavecchia,Italia,10,-1,3,10,false
+Copenhague,Dinamarca,10,51,3,10,true
+Dubrovnik,Croacia,10,-1,3,10,false
+El Pireo,Grecia,10,-1,3,10,false
+Estocolmo,Suecia,10,41,3,20,true
+Flam,Noruega,5,-1,3,10,false
+Haifa,Israel,30,-1,3,10,false
+Haugesund,Noruega,10,-1,2,10,false
+Helsinki,Finlandia,10,-1,3,10,false
+Iraklion,Grecia,30,-1,3,10,false
+Katakolon,Grecia,10,-1,3,10,false
+Kotor,Montenegro,10,-1,3,10,false
+Kristiansand,Noruega,10,-1,3,10,false
+La Spezia,Italia,10,-1,3,10,false
+La Valletta,Malta,10,-1,3,10,false
+Limassol,Chipre,10,-1,3,10,false
+Lisboa,Portugal,10,41,3,10,true
+Livorno,Italia,10,-1,1,10,false
+Marsella,Francia,10,-1,3,10,false
+Mesina,Italia,10,-1,3,10,false
+Molde,Noruega,20,-1,3,10,false
+Mykonos,Grecia,10,-1,2,10,false
+Mytilene,Grecia,10,-1,2,10,false
+Napoles,Italia,10,31,3,10,false
+Oslo,Noruega,30,-1,3,10,false
+Palermo,Italia,5,-1,3,10,false
+Palma de Mallorca,España,10,50,3,10,false
+Rijeka,Croacia,10,-1,3,10,false
+Rodas,Grecia,10,-1,2,10,false
+Rostock,Alemania,10,-1,2,10,false
+San Petersburgo,Rusia,10,21,2,10,true
+Santorini,Grecia,10,-1,3,10,false
+Southampton,Inglaterra ,10,25,1,10,true
+Split,Croacia,10,-1,3,10,false
+Stavanger,Noruega,10,-1,3,10,false
+Tallin,Estonia,10,-1,3,10,false
+Trondheim,Noruega,20,-1,3,10,false
+Venecia,Italia,10,59,3,10,false
+Villefranche,Francia,10,-1,3,10,false
+Warnemunde,Alemania,10,-1,3,10,false
+Zadar,Croacia,10,-1,3,10,false
+#EDGE#
+Alesund,Molde,50.0,1,3
+Amsterdam,Flam,60.0,2,3
+Barcelona,Marsella,70.0,1,2
+Barcelona,Napoles,40.0,2,2
+Bergen,Southampton,50.0,2,3
+Cabo Norte,Bergen,40.0,2,1
+Cadiz,Barcelona,60.0,2,3
+Cadiz,Lisboa,60.0,2,3
+Cadiz,Mesina,60.0,2,3
+Cadiz,Palma de Mallorca,30.0,1,3
+Cannes,Livorno,50.0,1,3
+Cannes,Palma de Mallorca,50.0,1,2
+Civitavecchia,Mesina,50.0,1,3
+Civitavecchia,Livorno,50.0,1,3
+Civitavecchia,Napoles,40.0,1,3
+Copenhague,Oslo,50.0,1,3
+Dubrovnik,El Pireo,40.0,2,3
+Dubrovnik,Rijeka,30.0,1,3
+El Pireo,Barcelona,55.0,3,2
+El Pireo,Iraklion,65.0,1,1
+El Pireo,Limassol,65.0,1,2
+El Pireo,Mykonos,70.0,1,2
+Estocolmo,Copenhague,50.0,2,3
+Flam,Alesund,40.0,1,3
+Flam,Stavanger,40.0,1,3
+Flam,Trondheim,40.0,1,3
+Haifa,Katakolon,80.0,2,1
+Haugesund,Flam,30.0,1,3
+Helsinki,Estocolmo,50.0,1,3
+Iraklion,Palermo,60.0,2,3
+Katakolon,Mytilene,50.0,1,3
+Kotor,Santorini,50.0,2,3
+Kristiansand,Oslo,50.0,1,3
+La Spezia,Civitavecchia,50.0,1,3
+La Valletta,Mykonos,50.0,2,3
+Limassol,Haifa,50.0,1,3
+Lisboa,Southampton,50.0,2,2
+Livorno,Civitavecchia,50.0,1,3
+Livorno,Marsella,50.0,1,3
+Marsella,Barcelona,70.0,1,3
+Marsella,Cannes,54.0,1,3
+Marsella,Villefranche,30.0,1,3
+Mesina,La Valletta,20.0,1,3
+Molde,Bergen,50.0,1,3
+Mykonos,Dubrovnik,50.0,2,3
+Mykonos,Rodas,50.0,1,3
+Mytilene,El Pireo,50.0,1,3
+Napoles,Barcelona,50.0,2,2
+Napoles,Civitavecchia,50.0,1,2
+Napoles,Santorini,50.0,2,1
+Oslo,Amsterdam,60.0,1,3
+Oslo,Warnemunde,40.0,2,3
+Palermo,Civitavecchia,50.0,1,3
+Palma de Mallorca,Barcelona,50.0,1,3
+El Pireo,Napoles,50.0,2,3
+Rijeka,Venecia,50.0,1,3
+Rodas,Mytilene,30.0,1,3
+Rodas,Santorini,35.0,1,3
+Rostock,Stavanger,40.0,2,3
+San Petersburgo,Helsinki,50.0,1,3
+Santorini,El Pireo,30.0,1,3
+Santorini,Rodas,50.0,1,3
+Southampton,Stavanger,60.0,2,3
+Split,Kotor,30.0,1,3
+Stavanger,Flam,50.0,1,3
+Stavanger,Haugesund,50.0,1,3
+Stavanger,Kristiansand,40.0,1,3
+Stavanger,Molde,50.0,2,3
+Tallin,Cabo Norte,50.0,1,3
+Trondheim,Cabo Norte,60.0,1,3
+Venecia,Dubrovnik,50.0,2,3
+Venecia,Split,50.0,1,3
+Venecia,Zadar,50.0,1,3
+Villefranche,La Spezia,50.0,1,3
+Warnemunde,Tallin,20.0,2,3
+Zadar,El Pireo,40.0,2,3
+Southampton,San Petersburgo,70.0,3,3
+Amsterdam,Palermo,80.0,3,3
